@@ -9,6 +9,6 @@
 
 `Скриншот дашборда с собранными метриками:`
 
-![alt text](https://github.com/otuzi/09-02-hw/blob/main/img/image1.png)
+![alt text](https://github.com/otuzi/09-01-hw/blob/main/img/image1.png)
 
 ---
